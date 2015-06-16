@@ -1,4 +1,4 @@
-# generators
+# Generators
 Rocket Generators tool
 
 ## Installation
@@ -6,7 +6,7 @@ Rocket Generators tool
 Per usual, install through Composer.
 
 ```js
-  "wegnermedia/commander": "dev-master"
+  "wegnermedia/generators": "dev-master"
 ```
 
 Next, update `app/config/app.php` to include a reference to this package's service provider in the providers array.
