@@ -16,9 +16,9 @@
     },
     "autoload":
     {
-        //"psr-4":
-        //{
-        //    "Wegnermedia\\Generators\\": "src/"
-        //}
+        "psr-4":
+        {
+            "Wegnermedia\\Generators\\": "src/"
+        }
     }
 }
